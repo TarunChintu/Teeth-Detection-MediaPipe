@@ -1,0 +1,7 @@
+
+Python 3.x
+mediapipe 
+OpenCV 
+numpy 
+math 
+google.colab 
